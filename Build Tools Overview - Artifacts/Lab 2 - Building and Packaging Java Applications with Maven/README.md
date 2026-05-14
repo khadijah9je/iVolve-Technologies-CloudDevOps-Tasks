@@ -94,13 +94,13 @@ Hello iVolve Trainee
 
 ### Commands Used
 
-![Commands](Commands(2).png)
+![Commands](Commands2.png)
 
 ---
 
 ### Results
 
-![Results](Results(2).png)
+![Results](Results2.png)
 
 ---
 
