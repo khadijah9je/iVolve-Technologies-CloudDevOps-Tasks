@@ -236,7 +236,13 @@ docker volume rm nginx_logs
 
 ### Results
 
-![Results](Results7.png)
+![Results](Results9.png)
+
+---
+
+### Results
+
+![Results](Results10.png)
 
 ---
 
