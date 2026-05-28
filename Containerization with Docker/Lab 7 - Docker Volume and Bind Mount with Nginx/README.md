@@ -234,15 +234,15 @@ docker volume rm nginx_logs
 
 ---
 
-### Results
+### Before
 
-![Before](Results9.png)
+![Before](Before.png)
 
 ---
 
-### Results
+### After
 
-![After](Results10.png)
+![After](After.png)
 
 ---
 
