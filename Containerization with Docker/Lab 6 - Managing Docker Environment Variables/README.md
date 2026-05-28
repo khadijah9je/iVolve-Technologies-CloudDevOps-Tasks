@@ -40,9 +40,6 @@ COPY . .
 
 RUN pip install flask
 
-ENV APP_MODE=production
-ENV APP_REGION=canada-west
-
 EXPOSE 8080
 
 CMD ["python", "app.py"]
@@ -54,13 +51,6 @@ CMD ["python", "app.py"]
 
 ```bash
 docker build -t app4 .
-```
-
-Expected output:
-
-```text
-Successfully built <image_id>
-Successfully tagged app4:latest
 ```
 
 ---
