@@ -98,7 +98,7 @@ CMD ["python", "app.py"]
 ```bash
 cd backend
 
-docker build -t backend-image .
+docker build -t backend-app .
 ```
 
 ### Frontend
@@ -106,7 +106,7 @@ docker build -t backend-image .
 ```bash
 cd ../frontend
 
-docker build -t frontend-image .
+docker build -t frontend-app .
 ```
 
 ---
