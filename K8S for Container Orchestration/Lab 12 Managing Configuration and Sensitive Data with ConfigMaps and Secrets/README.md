@@ -79,7 +79,7 @@ Apply Secret:
 ```bash
 kubectl apply -f secret.yaml
 ```
-Encode the sensitive values in base64::
+To encode the sensitive values in base64::
 
 ```bash
 echo -n "your_password" | base64
